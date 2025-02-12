@@ -119,17 +119,4 @@ Feel free to submit **pull requests** or report issues.
 🔗 **GitHub:** https://github.com/onehungrybird/airflow_ml_pipeline.git 
 ```
 
----
-
-### 🚀 **Next Steps**
-✅ **Copy and paste this `README.md` into your project**  
-✅ **Push to GitHub:**
-```bash
-git add README.md
-git commit -m "Added project README"
-git push origin main
-```
-✅ **Share your repo link if you'd like feedback!**  
-
-Let me know if you need any modifications. 🚀🔥
 
